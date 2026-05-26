@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #1e3a8a;
+  background-color: #0f766e;
   color: white;
   text-align: center;
   padding: 40px;
@@ -41,7 +41,7 @@ section {
 }
 
 button {
-  background-color: #1e3a8a;
+  background-color: #059669;
   color: white;
   border: none;
   padding: 15px 25px;
