@@ -14,3 +14,6 @@ Landing page de una campaña política ficticia del Candidato X.
 - JavaScript
 - Git
 - GitHub
+
+
+- Actualización realizada directamente desde GitHub.
