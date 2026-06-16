@@ -35,3 +35,27 @@ Si todos los archivos están presentes, la validación finaliza exitosamente. En
 
 La implementación de GitHub Actions contribuye a mantener la calidad y consistencia del proyecto mediante la integración continua.
 
+## Diagnóstico del Repositorio
+
+### Estado actual
+
+* El proyecto utiliza Git y GitHub para el control de versiones.
+* Se implementa trabajo colaborativo mediante ramas y Pull Requests.
+* Se realizan revisiones antes de integrar cambios.
+* Se cuenta con validaciones automáticas mediante GitHub Actions.
+
+### Riesgos identificados
+
+* La rama principal no cuenta con protección.
+* No existen plantillas para estandarizar Issues y Pull Requests.
+* Los roles del equipo no están definidos formalmente.
+* Existe el riesgo de realizar cambios directos sobre la rama principal.
+
+### Oportunidades de mejora
+
+* Implementar protección para la rama `main`.
+* Exigir revisiones antes de aprobar Pull Requests.
+* Utilizar plantillas para unificar la gestión del trabajo.
+* Definir roles y responsabilidades dentro del equipo.
+* Formalizar el uso de GitHub Flow como metodología de trabajo.
+
