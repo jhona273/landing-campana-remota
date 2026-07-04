@@ -59,3 +59,19 @@ La implementación de GitHub Actions contribuye a mantener la calidad y consiste
 * Definir roles y responsabilidades dentro del equipo.
 * Formalizar el uso de GitHub Flow como metodología de trabajo.
 
+## 🚀 Versión publicada
+
+### Versión actual
+v1.0.0
+
+### Release
+Primera versión estable del proyecto.
+
+### GitHub Pages
+https://jhona273.github.io/landing-campana-remota/
+
+### Cambios principales
+- Publicación de la primera versión estable.
+- Creación del CHANGELOG.
+- Creación del Release v1.0.0.
+- Publicación del proyecto mediante GitHub Pages.
