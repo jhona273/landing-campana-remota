@@ -1,0 +1,24 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDE
+.vscode/
+.idea/
+*.swp
+.swp.
+*~
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Node (por si se agrega tooling en el futuro)
+node_modules/
+npm-debug.log*
+
+# Variables de entorno
+.env
+.env.local
